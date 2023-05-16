@@ -1,0 +1,6 @@
+*-backups/
+*-cache
+
+#jlcpcb
+*/gerber/
+project.db
